@@ -3,20 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.175" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.175" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/drawable/border.xml" value="0.2355" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/drawable/gradiant.xml" value="0.1155" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.175" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/activity_anh.xml" value="0.19067028985507245" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/activity_campuchia.xml" value="0.19067028985507245" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/activity_lao.xml" value="0.19067028985507245" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/activity_main.xml" value="0.2028985507246377" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/activity_my.xml" value="0.19067028985507245" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/activity_philipins.xml" value="0.19067028985507245" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/activity_trung.xml" value="0.19067028985507245" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/activity_viet.xml" value="0.25" />
-        <entry key="..\:/Users/ACER/BaiKT3/app/src/main/res/layout/item_list_thi.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/drawable-v24/bg.xml" value="0.1" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_main.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tieng_philipins.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tieng_sing.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tienganh.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tiengcam.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tienghan.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tienglao.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tiengthai.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tiengtrung.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/activity_tiengviet.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/item_list.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/item_lv.xml" value="0.2028985507246377" />
+        <entry key="..\:/BaiKiemTra3/app/src/main/res/layout/item_lvmain.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/drawable-v24/bg.xml" value="0.2545" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/drawable-v24/radius.xml" value="0.2435" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/activity_cong.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/activity_tienganh.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/activity_tienghan.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/activity_tienglao.xml" value="0.2876068376068376" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/activity_tiengthai.xml" value="0.2876068376068376" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/activity_tiengtrung.xml" value="0.28675213675213673" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/activity_tiengviet.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Tieng/app/src/main/res/layout/item_list.xml" value="0.3494791666666667" />
       </map>
     </option>
   </component>

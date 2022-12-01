@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "BaiKT3"
+rootProject.name = "App_Tieng"
 include ':app'
